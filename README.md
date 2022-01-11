@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sooshimi
+- 👋 Hi, my name is Mason (@Sooshimi)
 - 🌱 I’m currently studying Computer Science (MSc)
 - 📫 How to reach me: masonchee@protonmail.com or DM
 
