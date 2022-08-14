@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Mason (@Sooshimi)
-- 🌱 Mechanical Engineering (BSc) & Computer Science (MSc)
+- 📜 Mechanical Engineering (BSc) & Computer Science (MSc)
+- 💻 Data Products Engineer
 - 📫 How to reach me: masonchee@protonmail.com or DM
 
 <!---
