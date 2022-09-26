@@ -1,6 +1,7 @@
-- 👋 Hi, my name is Mason (@Sooshimi)
+- 👋 Hi, my name is Mason!
 - 📜 Mechanical Engineering (BSc) & Computer Science (MSc)
 - 💻 Data Products Engineer
+- 🕹️ Currently learning 2D Game Development with Unity
 - 📫 How to reach me: masonchee@protonmail.com or DM
 
 <!---
