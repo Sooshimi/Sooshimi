@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Mason!
+- 👋 Hi, I'm Mason!
 - 📜 Mechanical Engineering (BSc) & Computer Science (MSc)
 - 💻 Data Products Engineer
-- 🕹️ Currently learning 2D Game Development with Unity
+- ⚒️ Currently going through The Odin Project to learn full stack web development!
 - 📫 How to reach me: masonchee@protonmail.com or DM
 
 <!---
